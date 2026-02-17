@@ -41,7 +41,7 @@ The system utilizes dual-energy harvesting: **Concentrated Solar Flux** and **Pr
 ---
 
 ## ⚖️ Open Source Declaration
-This invention is released as **Open Source**. The inventor, **[ضع اسمك هنا]**, grants a royalty-free, global license to any individual or entity to use, modify, and manufacture this design. 
+This invention is released as **Open Source**. The inventor, **[mohamed salah farag abdelmoneim]**, grants a royalty-free, global license to any individual or entity to use, modify, and manufacture this design. 
 
 > **Condition:** Any derivative works or improvements must remain open-source for the benefit of humanity, and proper attribution to the original inventor must be maintained.
 
@@ -54,6 +54,7 @@ We are looking for collaborators in the following fields:
 3.  **Thermodynamics:** Refining the supercritical flow simulations.
 
 ---
-**Inventor:** [ضع اسمك هنا]  
-**Contact:** [ضع إيميلك أو وسيلة تواصل هنا]  
+**Inventor:**mohamed salah farag abdelmoneim  
+**Contact:** mohamedsalahfarag1978@gmail.com
+
 *Built for a sustainable future.*
